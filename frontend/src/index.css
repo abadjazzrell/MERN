@@ -4,12 +4,6 @@ main {
 
 #navbar {
   height: 20px;
-}
-
-#nav-brand {
-  color: aliceblue;
-}
-
-#nav {
-  color: aliceblue;
+  padding-left: 10em;
+  padding-right: 10em;
 }
