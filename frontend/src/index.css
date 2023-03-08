@@ -1,0 +1,15 @@
+main {
+  min-height: 80vh;
+}
+
+#navbar {
+  height: 20px;
+}
+
+#nav-brand {
+  color: aliceblue;
+}
+
+#nav {
+  color: aliceblue;
+}
